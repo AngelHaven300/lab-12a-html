@@ -1,0 +1,27 @@
+p {
+    color: #0000FF;
+    font-size: 14px;
+    text-decoration: line-through;
+}
+
+h1 {
+     color: #008000;
+     text-transform: uppercase;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    background-color:  #888888;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+#mydiv {
+    border: 8px solid black;
+    background-color: brown;
+}
+
+.myclass {
+    background-color: gold;
+}
